@@ -5,3 +5,4 @@
 4.SpringBoot with Hibernate Project
 5.SpringBoot Thymeleaf Project
 6.SpringBoot Security Project
+7.SpringBoot Profile Project
